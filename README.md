@@ -5,7 +5,8 @@
 
 To contribute to the success of a business by uitilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
-![Dashboard](https://github.com/rsturka/Attrition-Analytics-Dashboard/blob/main/Images/Dashboard.png)
+![Forecast](https://github.com/rsturka/Superstore-Sales-Dashboard/blob/main/Images/Forecast.png)
+![Dashboard](https://github.com/rsturka/Superstore-Sales-Dashboard/blob/main/Images/Dashboard.png)
 
 ## There are 4 Basic ways for virtualization. 
 
