@@ -3,7 +3,7 @@
 
 # Superstore Sales Dashboard
 
-This dashboard provides actionable insights into factors influencing attrition rates, allowing for strategic interventions to be implemented effectively, ultimately leading to enhanced employee retention and organizational stability.
+To contribute to the success of a business by uitilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
 ![Dashboard](https://github.com/rsturka/Attrition-Analytics-Dashboard/blob/main/Images/Dashboard.png)
 
