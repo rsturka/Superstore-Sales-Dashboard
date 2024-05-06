@@ -1,7 +1,7 @@
 ![Microsoft PowerBI](https://img.shields.io/badge/Microsoft-PowerBI-yellow.svg)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft-Excel-green.svg)
 
-# Attrition Analytics Dashboard
+# Superstore Sales Dashboard
 
 This dashboard provides actionable insights into factors influencing attrition rates, allowing for strategic interventions to be implemented effectively, ultimately leading to enhanced employee retention and organizational stability.
 
