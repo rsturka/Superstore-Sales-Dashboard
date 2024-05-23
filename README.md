@@ -23,20 +23,20 @@ To contribute to the success of a business by uitilizing data analysis technique
 
 **♦ Communicating Insights and Analysis**
 
-## Areas of Focus
+## Description
 
-Utilizing **Power BI**, I have developed a comprehensive dashboard leveraging data from 1,470 rows and 57 columns to analyze key metrics related to employee retention and attrition within the organization
+The objective can be broken down into the following detailed components:
 
-**♦ Data Cleaning with Excel**
+**1. Dashboard Creation:** Identify the KPI,s, design an intuitive and visually appealing dashboard, add intractive visualizations and filtering capabilities to allow user to explore the data at various level of granularity.
 
-**♦ Attrition by Age**
+**2. Data Analysis:** Provide valuable insightes to business entities regarding the effectiveness of their sales strategies through visualization and charts.
 
-**♦ Attrition by Education**
+**3. Sales Forecasting:** Leverage historic data and apply time series analysis to generate sales forecasts for next 15 days.
 
-**♦ Attrition by Job Role**
+**4. Actionable Insights and Recommendations:** End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and coustomer satification.
 
-**♦ Attrition by Salary**
+## Learning
 
-**♦ Attrition by Years at company**
+Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
 
-[Study Reference](https://github.com/rsturka/Attrition-Analytics-Dashboard/blob/main/Project.pbix)
+[Study Reference](https://github.com/rsturka/Superstore-Sales-Dashboard/blob/main/Super%20Store%20Sales%20Dashboard.pbix)
